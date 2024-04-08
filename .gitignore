@@ -1,0 +1,7 @@
+# 個人ファイル
+.env
+gomodo
+
+# エディター
+/.idea/
+.idea
